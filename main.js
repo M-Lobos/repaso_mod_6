@@ -1,5 +1,5 @@
 import express from 'express';
-import usuarioRoutes from './scr/routes/usuario.routes.js'
+import usuarioRoutes from './src/routes/usuario.routes.js'
 //// Se instancia express en la variable app, y el puerto 3000 en PORT.
 const app = express();
 const PORT = 3000;

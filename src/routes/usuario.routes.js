@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import {
-    createNuevoUsuario
+    createNuevoUsuario,
 } from '../controllers/usuario.controller.js'
 
 const router = Router();
